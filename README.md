@@ -1,1 +1,1 @@
-# TNSDC_enerative_AI
+# TNSDC_Generative_AI
